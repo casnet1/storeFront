@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="./login.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+
+  </head>
+  <body>
+<div class="contenedor">
+    <div class="signupButton">Sign Up</div>
+    <div class="loginButton">Log In</div>
+
+    
+
+    <form class="login" id="login">
+      <input type="text" class="input" name="correo" placeholder="correo" /><br />
+      <input type="text" class="input" name="pass" placeholder="contraseña" /><br />
+      <input type="submit" class="btn" onclick="login()" value="iniciar sesion" />
+    </form>
+
+    
+    <form class="registro" id="registro">
+      <input type="text" class="input" name="correo" placeholder="correo" /><br />
+      <input type="text" class="input" name="pass" placeholder="contraseña" /><br />
+      <input type="text" class="input" name="name" placeholder="UserName" /><br />
+      <input type="submit" class="btn" onclick="Registro()" value="Registrar" />
+    </form>
+</div>
+    <script src="./login.js"></script>
+  </body>
+</html>

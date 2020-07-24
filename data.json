@@ -1,0 +1,34 @@
+[
+    {
+      "clave": 1,
+      "nombre": "libreta",
+      "precio": 50,
+      "categoria": "papeleria",
+      "likes": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRopF5X1PUAIsnzvZjU_k6XXpOmwIZEtF43LQ&usqp=CAU"
+    },
+    {
+      "clave": 2,
+      "nombre": "playera unam",
+      "precio": 530,
+      "categoria": "ropa",
+      "likes": 9.5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWDVWZRBDe56S2nkx32Bxhow9HKNYHsxbOXA&usqp=CAU"
+    },
+    {
+      "clave": 3,
+      "nombre": "sticker ovalo",
+      "precio": 30,
+      "categoria": "stickers",
+      "likes": 4.5,
+      "img": "https://i.ebayimg.com/images/g/PakAAOSwH61cRTFt/s-l300.jpg"
+    },
+    {
+      "clave": 4,
+      "nombre": "chamarra nylon",
+      "precio": 430,
+      "categoria": "ropa",
+      "likes": 9,
+      "img": "https://filomania.com.mx/wp-content/uploads/2017/07/chamarra-unam-bomber-jacket.png"
+    }
+  ]
